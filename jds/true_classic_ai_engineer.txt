@@ -1,0 +1,90 @@
+Job description
+True Classic is looking for an AI Engineer to design, build, and deploy AI-powered applications and workflows that solve real business problems across the company. In this hands-on, execution-focused role, you will work cross-functionally to integrate AI into how we acquire customers, maximize lifetime value, and streamline operations.
+
+You'll thrive here if you're a problem solver first—someone who would rather ship solutions than wait on specs or build slide decks. You're comfortable writing clean, production-ready code, moving quickly, and turning ambiguous problems into real, working systems that drive impact.
+
+All True Classic roles are global and omni-channel, driving accountability across product categories, regions, and sales/marketing channels. This role will allow you to impact operations worldwide, ensuring alignment with our business objectives and delivering success across diverse markets and platforms.
+
+What You Will Do
+• Design and develop AI-powered applications, tools, and workflows that address high-leverage True Classic business problems
+• Build AI agents, automation pipelines, and LLM-powered features across acquisition, retention, and operations
+• Implement and integrate RESTful APIs for efficient, secure data access and exchange across our tech stack
+• Write clean, maintainable, production-quality code across Python, React, Node.js, and other relevant frameworks
+• Deploy and manage applications on AWS and other cloud platforms using modern CI/CD pipelines
+• Partner with marketing, finance, operations, and commercial teams to solve their hardest problems
+• Perform code reviews, enforce best practices, and drive continuous improvement
+• Evaluate and implement AI tools that fit our stack — and stay at the frontier to bring new capabilities in
+
+Cross-Functional Collaboration
+• Marketing: AI-powered acquisition, creative testing, audience targeting, and lifecycle tools
+• eCommerce & Product: Personalization, search, merchandising, and conversion optimization
+• Operations: Automation of high-friction workflows across supply chain and fulfillment
+• Finance & BI: Connect AI initiatives to revenue, margin, and efficiency KPIs
+• Commercial Channels: Solutions that work across DTC, wholesale, marketplace, and international
+
+Qualifications
+• Professional experience in AI engineering or software development
+• Bachelor's degree in Computer Science or related field
+• Strong expertise in AI prompting, engineering workflows, and working with LLMs (Claude, OpenAI, or similar)
+• Proficiency in Python, React, Node.js, Express.js — SQL/PostgreSQL a plus
+• Hands-on experience with cloud and DevOps: AWS, Heroku, GitHub CI/CD
+• Strong understanding of RESTful API design and implementation
+• Systems thinker who can architect end-to-end solutions, not just point fixes
+• Creative, tenacious, and hungry — thrives in ambiguity and moves with urgency
+
+Preferred Qualifications
+• Experience at a DTC, e-commerce, or consumer brand
+• Familiarity with our stack: Meta, Google, TikTok, Klaviyo, Triple Whale, Shopify
+• Experience with prompt engineering best practices for AI-driven workflows
+• Track record deploying scalable AI solutions in production environments
+
+Workplace Arrangment
+
+On-site (5x week in our Calabasas, CA office). We are open to candidates relocating to the Calabasas area for this role; however, True Classic does not provide relocation assistance.
+
+Why True Classic
+• One of the fastest-growing consumer brands in the world — and we are just getting started
+• AI-native from the top down: leadership is personally invested in AI transformation
+• Industry-leading, innovative work you will not find inside most consumer brands
+• Grow fast: scope, title, and comp scale with the company
+• Real impact — your work shapes the experience of millions of customers worldwide
+• Human, work-friendly environment where great people do their best work
+
+Compensation and Benefits
+
+Compensation
+• $75k-$85k + bonus
+
+Time Off
+• Unlimited PTO and sick time
+
+Health & Wellness
+• Company-paid medical, dental, and vision insurance
+• $100/month Wellness Stipend
+• Free Employee Assistance Program (EAP)
+
+Work & Growth Support
+• $100/month Personal Workspace/Office Stipend
+
+Perks
+• $1,000/year True Classic merchandise allowance
+• 401(k) plan with 3% company match
+
+True Classic is proud to be an equal opportunity employer. We celebrate and support differences in race, religion, color, national origin, gender, sexual orientation, gender identity, age, veteran status, and abilities. If you need assistance or accommodation due to a disability, please contact Human Resources.
+
+At True Classic, our purpose is simple: empower everyone to look good and feel good.
+
+Founded in 2019, we're a fast-growing apparel brand obsessed with fit, quality, and impact. But we're building more than great products—we're building a high-performance team where smart, driven people do meaningful work, move fast, and see the direct results of what they create.
+
+Everything we do is guided by the True Classic Operating System (TCOS)—the principles that shape how we work, make decisions, and win together:
+• Move the Needle – Our #1 value and the ultimate filter for decision-making. We focus on delivering tangible, measurable results that drive real business impact.
+• Paint the Picture – We set clear vision and help others see what great looks like.
+• Seek the Truth – We use data, customer insight, and curiosity to guide decisions.
+• Get 1% Better – We continuously improve how we work through strong systems and small wins.
+• Build Leverage – We maximize impact with the right mix of people, tools, automation, and AI.
+• Crush the Challenge – We surface problems early and take ownership to solve them.
+• Go Fast – We take initiative, move with urgency, and bias toward action.
+• Be Creative – We challenge the norm and find better ways to win.
+• Lead with Empathy – We care deeply about our customers and each other.
+
+If you thrive in fast-paced environments, take ownership of your work, and want to build something that actually moves the needle—join us and help shape what's next at True Classic!

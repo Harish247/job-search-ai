@@ -1,0 +1,26 @@
+name: Your Name
+years_of_experience: 0
+current_level: Software Engineer  # e.g. Junior, Mid, Senior, Staff, Principal
+
+core_stack:
+  - Language1
+  - Language2
+  - Cloud Provider
+
+domain:
+  - Your industry or domain
+  - e.g. fintech, healthcare, e-commerce
+
+target_roles:
+  - e.g. Staff Engineer at AI-focused companies
+
+preferences:
+  - e.g. remote friendly
+  - e.g. small team
+  - e.g. individual contributor
+
+dealbreakers:
+  - e.g. no fully on-site roles
+  - e.g. no more than X% travel
+
+ai_experience: none  # e.g. none, beginner, intermediate, advanced

@@ -1,0 +1,108 @@
+Adobe Customer Solutions is looking for a full time Data & AI Engineer with experience in building data integrations using AWS technology stack as part of the team's Data as a Service portfolio for Adobe's Customer Experience Orchestration enterprise customers.
+
+Customer-facing Engineers who excel at solving complex technical challenges, delighting customers, and driving agent-based automation in a collaborative environment will thrive here. If you have a strong foundation in Data Engineering, building scalable API based integrations and are passionate about architecting autonomous AI systems-including LLM agents and intelligent automation-this is your ideal next step.
+
+What you'll do
+
+Collaborate with Data architects, Enterprise architects, Solution consultants and Product engineering teams to capture customer data integration requirements, conceptualize solutions & build required technology stack
+
+Collaborate with enterprise customer's engineering team to identify data sources, profile and quantify quality of data sources, develop tools to prepare data and build data pipelines for integrating customer data sources and third party data sources with Adobe solutions
+
+Develop new features and improve existing data integrations with customer data ecosystem
+
+Encourage team to think out-of-the-box and overcome engineering obstacles while incorporating new innovative design principles.
+
+Collaborate with a Project Manager to bill and forecast time for customer solutions
+
+Work with Project Managers to scope, bill, and forecast time for customer solutions, demonstrating agent-based AI and automation strategies.
+
+Develop and improve features that incorporate LLMs, AI agents, and/or multi-agent orchestration for dynamic data integration, workflow automation, and real-time business value.
+
+Requirements
+
+Experience as an enterprise Data Engineer from a consulting background
+
+AWS Certified Data Engineer - Associate or AWS Certified Cloud Practitioner
+
+10+ years experience in building/operating/maintaining fault tolerant and scalable data processing integrations using AWS
+
+10+ years experience in Python programming language preferably using PySpark
+
+Software development experience working with Apache Airflow, DynamoDB, MySQL
+
+2+ years working with AWS AI/ML and agentic services such as SageMaker, Bedrock, Vector databases (OpenSearch, Pinecone)
+
+Demonstrated experience (or significant exposure) designing, integrating, and scaling agentic AI systems-such as LLM agents, multi-agent frameworks (LangChain, LangGraph, LangSmith, MLFlow), autonomous orchestration, or decision-making pipelines. Capable of evolving data engineering solutions into intelligent, agent-based offerings.
+
+Strong capacity to manage numerous projects are a must
+
+Experience using Docker or Kubernetes is a plus
+
+BS/MS degree in Computer Science or equivalent industry experience
+
+Ability to identify and resolve problems associated with production grade large scale data processing workflows
+
+Excellent communication skills (we're a geographically distributed team)
+
+Experience creating and maintaining unit tests and continuous integration.
+
+Passion for creating Intelligent data pipelines that customers love to use.
+
+Special Consideration given for
+
+Experience & knowledge with Web Analytics or Digital Marketing
+
+Experience & knowledge with Customer Data Platform (CDP) or Data Management Platform (DMP)
+
+Experience & knowledge with Adobe Experience Cloud solutions
+
+About Adobe
+
+Adobe empowers everyone to create through innovative platforms and tools that unleash creativity, productivity and personalized customer experiences. Adobe's industry-leading offerings including Adobe Acrobat Studio, Adobe Express, Adobe Firefly, Creative Cloud, Adobe Experience Platform, Adobe Experience Manager, and GenStudio enable people and businesses to turn ideas into impact, powered by AI and driven by human ingenuity.
+
+Our 30,000+ employees worldwide are creating the future and raising the bar as we drive the next decade of growth. We're on a mission to hire the very best and believe in creating a company culture where all employees are empowered to make an impact. At Adobe, we believe that great ideas can come from anywhere in the organization. The next big idea could be yours.
+
+Let's Adobe together
+
+At Adobe, we believe in creating a company culture where all employees are empowered to make an impact. Learn more about Adobe life, including our values and culture, focus on people, purpose and community, Adobe for All, comprehensive benefits programs, the stories we tell, the customers we serve, and how you can help us advance our mission of empowering everyone to create.
+
+Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other protected characteristic. Learn more.
+
+Adobe aims to make our Careers website and recruiting process accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call +1 408-536-3015.
+
+AI Use Guidelines for Interviews:
+Our interviews are designed to reflect your own skills and thinking. The use of AI or recording tools during live interviews is not permitted unless explicitly invited by the interviewer or approved in advance as part of a reasonable accommodation. If these tools are used inappropriately or in a way that misrepresents your work, your application may not move forward in the process.
+
+At Adobe, we empower employees to innovate with AI - and we look for candidates eager to do the same. As part of the hiring experience, we provide clear guidance on where AI is encouraged during the process and where it's restricted during live interviews. See how we think about AI in the hiring experience.
+
+Expected Pay Range:
+Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this positionis $139,000 -- $257,550 annually. Paywithin this range varies by work locationand may also depend on job-related knowledge, skills,and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.
+
+In California, the pay range for this position is $177,900 - $257,550
+In New York, the pay range for this position is $177,900 - $257,550
+In Illinois, the pay range for this position is $155,700 - $225,450
+In Washington, the pay range for this position is $161,700 - $234,150
+
+At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).
+
+In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.
+
+State-Specific Notices:
+
+California:
+
+Fair Chance Ordinances
+
+Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and "fair chance" ordinances.
+
+Colorado:
+
+Application Window Notice
+
+If this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.
+
+Massachusetts:
+
+Massachusetts Legal Notice
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.

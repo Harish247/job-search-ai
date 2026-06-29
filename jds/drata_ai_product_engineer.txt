@@ -1,0 +1,114 @@
+Job description
+Our Mission & Values:
+At Drata, we help companies earn and keep the trust of their users, customers, partners, and prospects. We’re the proof layer that shows great companies deserve the trust they aim to build.
+
+We live our values every day. Built on Trust means consistency is everything. Act with Integrity by always doing the right thing. Being Customer-Obsessed keeps the people we serve at the center of our work. Competitive Fire drives us to push ourselves harder than anyone else. Diversity brings unique perspectives that lead to better solutions. Automation First ensures we save time and money by making efficiency a priority.
+
+Our Culture & Work Style 🚀
+
+At Drata, we’re not just building software - we’re building a mindset. Everything we do springs from:
+
+- Be a Driver (Owner‑Operator Mentality): Own your work. Improve relentlessly. Deliver results.
+
+- Move at Drata Speed (Precision & Velocity): Fast decisions. Quick learning. Immediate impact.
+
+- Stay Mission-Driven (Customer‑Obsessed): Challenge assumptions. Deliver value. Stay hungry.
+
+We pair that high-velocity culture with a thoughtful hybrid model because we believe flexibility and collaboration both matter. That’s why in the Bay we come together in-office Tuesday through Thursday our high‑impact collaboration days where teams align, strategize, and innovate. Mondays and Fridays are flexible, giving you space for focused work, balance, and autonomy.
+
+If you thrive when you’re empowered, energized, and working with smart, mission-driven people, you’ll feel at home here.
+
+Why Join The Drata Team?
+
+The best way to understand the Driver’s Mindset is to see it in action. We’re an award-winning, mission-driven team of 600+ people worldwide, united by a culture that values trust, speed, and continuous growth.
+
+- See the Speed: https://www.youtube.com/watch?v=QidTdkGwKMY Watch our CEO, Adam Markowitz, discuss the hyper-growth journey, from $0 to $100M ARR in just four years
+
+- Hear the Voice of the Team https://drata.com/about/life-at-drata: Explore our "Life at Drata" page for employee testimonials on our collaborative and the growth opportunities available.
+
+- Experience the Impact https://www.greatplacetowork.com/certified-company/7044563: See why we are consistently recognized on Fortune's Best Workplaces lists.
+
+- Connect with Us on Socials: LinkedIn https://www.linkedin.com/company/drata/posts/?feedView=all - follow us for company updates, employee stories, and career news.
+
+Job Summary:
+
+Drata is reimagining compliance as an intelligent, always-on experience — and AI is at the center of that vision. We are seeking a Senior AI Product Engineer to own the full-stack development of customer-facing AI features, embedded directly within our product teams. This is not a platform or infrastructure role. You'll translate the capabilities of LLMs, agents, and RAG pipelines into intuitive, polished product experiences — streaming chat interfaces, agentic workflows, intelligent summaries, and guided automation that makes compliance feel effortless. You'll partner closely with AI Engineers who own the backend intelligence and Product and Design who shape the vision, but you are the engineer who closes the loop between AI capability and the customer experience.
+
+What you'll do:
+
+- Build AI-powered product features end-to-end — React/TypeScript UI through Node.js/Python backend — with real-time streaming, graceful degradation, and human-in-the-loop interaction patterns
+
+- Translate AI capabilities — RAG pipelines, agentic workflows, structured reasoning — into interactions that feel natural to compliance practitioners
+
+- Partner with AI Engineers to define API contracts and output schemas; translate RAG pipelines, agentic workflows, and structured reasoning into interactions that feel natural to compliance practitioners
+
+- Advocate for the user's perspective in technical decisions; surface where model outputs break down in practice and iterate the product layer accordingly
+
+- Build user-facing feedback loops that capture signal on AI output quality and make it actionable for the broader AI team
+
+- Instrument AI features with product-level observability — latency, engagement, task completion, drop-off — alongside integration and end-to-end tests that validate behavior across the full stack
+
+- Establish reusable patterns (streaming hooks, feedback components, AI state management) that accelerate future AI feature development
+
+- Mentor engineers newer to AI product development; participate in design reviews with both engineering depth and product instinct
+
+What you'll bring:
+
+- Experience: 3+ years of software engineering experience with a proven track record of shipping full-stack features in production; 1+ years working on AI-powered product features
+
+- Frontend: Strong proficiency in React and TypeScript; experience building responsive, interactive UIs that handle async, streaming, and real-time data gracefully
+
+- Backend: Solid Python and Node.js and Typescript skills; experience designing and consuming APIs that integrate with LLM providers, orchestration frameworks, or AI services
+
+- AI Fluency: Hands-on experience building with LLM APIs (OpenAI, Anthropic, etc.); practical understanding of prompt engineering, context management, RAG, Quality/Evals(Braintrust or others) and structured outputs — not just calling an endpoint, but knowing what makes a prompt reliable in production
+
+- Familiarity with agent frameworks (LangGraph, LangChain, custom runtimes) and how to build product surfaces on top of multi-step agentic workflows
+
+- Streaming & Real-Time UI: Experience implementing streaming response patterns (SSE, WebSockets, chunked HTTP) and building UIs that handle progressive, partial, and uncertain outputs
+
+- Product Sense: Strong intuition for user experience; you ask "does this feel right to the user" as often as "does this work technically" — and you're right about both
+
+- Collaboration: Track record of working closely with AI/ML engineers, product managers, and designers; comfortable operating in a cross-functional product team where the requirements are often ambigous and the iteration is fast
+
+Bonus Qualifications
+
+- Experience in compliance, security, GRC, or other document-heavy enterprise domains
+
+- Experience with MCP (Model Context Protocol) or similar tool-use interfaces for AI agents
+
+- Exposure to RAG system design — not as an owner, but as a consumer who has debugged retrieval quality issues from the product layer
+
+- Experience building feedback and annotation tooling that captures user signal on AI output quality
+
+Impact
+
+This role is the bridge between Drata's AI ambitions and the customers who will benefit from them. Your work will:
+
+- Define the standard for how AI features look, feel, and behave across Drata's product — setting a bar that the entire product engineering organization will build to
+
+- Make compliance practitioners more capable and confident by turning AI intelligence into product interactions they actually trust and use
+
+- Accelerate the velocity of AI product development by establishing reusable patterns, components, and interfaces that make the next AI feature faster to ship than the last
+
+- Influence the roadmap through your proximity to both the customer experience and the AI capability layer — you'll see the gaps and the opportunities before almost anyone else
+
+How we support you:
+At Drata, our people are our strongest advantage—and we prove it with support that exceeds industry standards. Our total rewards package is designed to power your well-being, accelerate your growth, and keep your work-life balance thriving.
+
+Explore how we invest in your Life at Drata https://drata.com/about/life-at-drata?utm_source=chatgpt.com.
+
+- Shared Success: We provide stock equity to ensure that as the company grows, you share directly in that success. Equity gives every employee a sense of ownership and the opportunity to celebrate our wins together—because your contributions don’t just support our progress; they help drive our collective success.
+
+- Health & Wellness: Up to 100% employer-paid premiums for medical, dental, and vision coverage for employees and their dependents, along with comprehensive wellness benefits and healthcare concierge services designed to support your needs beyond traditional insurance.
+
+- Financial Well-being: A comprehensive suite of financial benefits, including a 401(k) plan, company-paid life and disability insurance, tax-advantaged spending accounts, and a range of discounted voluntary offerings to help you customize and strengthen your overall financial position.
+
+- Family Support: We want to support you in life's most important moments, so we offer a paid Parental Leave policy, after six months of employment. Employees also receive access to Kindbody fertility and family-building benefits and dedicated leave specialists who help guide you through the entire process.
+
+- Growth & Development: Generous annual stipends for both professional and personal development, empowering you to invest in your continued growth. You’ll also have access to a wide range of internal learning opportunities, ensuring you can build new skills, deepen your expertise, and advance your career with confidence.
+
+- Time Off & Flexibility: We believe that to do your best work, you should get the time you need for rest, rejuvenation and recovery. Drata offers a flexible vacation policy, paid holidays, and other perks to recharge.
+
+This role will receive a competitive base salary, benefits, and stock, typically in the form of Restricted Stock Units (RSUs). The applicable salary range for this role is: $145,000 - $196,400.
+
+A variety of factors are considered when determining someone’s leveling and compensation–including a candidate’s professional background and experience. These ranges may be modified in the future and final offer amounts may vary from the amounts listed above.

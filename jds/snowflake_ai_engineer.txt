@@ -1,0 +1,48 @@
+At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.
+
+Snowflake is about empowering enterprises to achieve their full potential — and people too. With a culture that’s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology — and careers — to the next level.
+
+ABOUT THE ROLE:
+
+You will work on critical business initiatives in the core database engine, bring an AI-forward approach to software development and accelerate roadmap cycles for the benefit of our customers.
+
+Your work will directly impact how developers and businesses build with data. You'll own the full AI engineering lifecycle: design, prompt/tool engineering, evals, deployment, measurement, and optimization. You'll work with a small, high-powered engineering team. What you will do in this role:
+• Own features end-to-end for Snowflake Database Engineering products. Build agentic workflows, coding harnesses, evaluation pipelines.
+• Build enterprise-grade context engineering: function calling, tool schemas, guardrails, agent teams, and verification/repair.
+• Design evals and hillclimb : create golden sets, create rubrics and metrics, analyze errors, run experiments to hill climb on the metrics.
+• Partner with product and infra: translate customer problems into products and experiments. Collaborate with infrastructure teams to productionize improvements.
+• Work with an elite team of engineers towards building great products
+
+REQUIREMENTS:
+• Bachelor’s degree in Computer Science, Engineering, Statistics or a related field. Master’s or higher degree preferred but not a requirement.
+• 5+ years of experience shipping AI features in production.
+• Proficiency in programming languages such as Python, Typescript, Go
+• Strong communication skills and ability to collaborate effectively in a team environment.
+• (Optional) Experience working with data engineering pipelines (dbt, airflow), data modeling, data analysis, retrieval systems, and semantic layers is a plus.
+
+NICE TO HAVE:
+• Deep experience with agentic coding tools (e.g. IDE agents, CLI agents) and intuition for model strengths, failure modes, and prompting limits.
+• Background in data engineering (dbt, Airflow), data modeling, analytics, retrieval / RAG, or semantic layers — highly relevant for data-centric coding agents.
+• Prior work on eval harnesses, LLM observability, or safety / guardrails in production.
+
+You may be a particularly good fit if you:
+• Have built and owned complex systems — pipelines, orchestration, or software with substantial state, branching logic, and operational requirements.
+• Thrive in high-intensity environments with short feedback loops and high standards for rigor.
+• Take problems to completion independently: you don’t stop at a prototype; you care about production reliability and clear metrics.
+• Are a power user of modern coding agents and care about turning that intuition into systematic measurement and improvement.
+
+Every Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential.
+
+Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.
+
+How do you want to make your impact?
+
+For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com
+
+The following represents the expected range of compensation for this role:
+• The estimated base salary range for this role is $160,000 - $230,000.
+• Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.
+
+The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.
+
+To comply with pay transparency requirements and other statutes, you can notify us if you believe that a job posting is not compliant by completing this form.

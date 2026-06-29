@@ -1,0 +1,52 @@
+Kai is the AI company rebuilding cybersecurity for the machine-speed era. Founded by second time founders and trusted by Fortune 500 enterprises, Kai is building a future where security has no categories, no silos, and no human speed bottlenecks. The Kai Agentic Platform replaces fragmented, human-limited workflows with agentic AI systems that continuously contextualize, assess, reason, and execute security work at the speed of thought - making human defenders, superhuman.
+
+Why Kai?
+• Well-funded: With $125M raised, we have the capital, runway, and resolve to rebuild cybersecurity from first principles.
+• Proven: We've earned the trust of Fortune 500 and Global 1000 companies, and we're just getting started. Their confidence in Kai reflects what we've built: an AI-powered cybersecurity platform that performs at the scale and speed the enterprise demands.
+• Experienced founders: Our founding team consists of second-time entrepreneurs, each with over 20 years of experience in the cybersecurity industry. Their proven expertise and vision drive our ambitious goals.
+• World-class leadership team: Our Heads of AI, Engineering, and Product bring extensive experience from some of the world’s most influential companies, ensuring top-tier mentorship, direction, and vision.
+• Frontier AI Applied Research Team: Our researchers operate at the leading edge of agentic AI systems, translating breakthrough capabilities into real-world cybersecurity applications.
+• Generous compensation: We offer highly competitive salaries, equity options, and a supportive work environment. Your contributions will be valued and rewarded as we grow together.
+
+About The Role
+
+We are building an AI-powered cybersecurity platform that helps enterprises manage vulnerabilities at scale. Our AI team has built working services that analyze container images, standardize package data, extract natural language filters, and assess package maintenance — all powered by LLMs and intelligent automation.
+
+Now we need an experienced software engineer to make these systems scale. You'll be the first dedicated engineering hire on the AI team, working alongside applied AI scientists and an AI infrastructure engineer to transform code into reliable, well-tested, and maintainable production services.
+
+This is not an ML research role. This is a software engineering role on an AI team. You'll own the code quality, test coverage, CI/CD pipelines, and production reliability of services that call LLM APIs, interact with Azure cloud services, and serve critical data to our cybersecurity platform.
+
+Key Responsibilities
+• Build the test suite from the ground up. You'll design the test infrastructure — unit tests with mocked LLM responses, integration tests against staging environments, and fixtures that make testing fast and reliable. You'll wire this into CI so nothing ships without passing tests.
+• Harden production services. Audit and fix security issues. Implement structured logging. Add health checks, metrics, and traces.
+• Improve the CI/CD pipeline. You'll add quality gates so the team catches issues before they reach production.
+• Refactor for maintainability. Extract shared patterns into reusable modules. Break apart oversized classes and reduce code duplication across services.
+• Fix dependency management. Introduce lock files for reproducible builds, remove unused dependencies, and resolve version inconsistencies across services.
+• Own the reliability and performance of our AI service fleet (Python/FastAPI microservices)
+• Build out observability — distributed tracing, latency dashboards, alerting on error rates and SLA breaches
+• Design and implement caching strategies, rate limiting, and circuit breakers for external API calls (Anthropic, Azure ML, package registries)
+• Collaborate with AI scientists on prompt engineering and output parsing, bringing engineering rigor to LLM integration patterns
+• Mentor mid-level engineers as the team grows
+
+Required Qualifications
+• 4+ years of professional software engineering experience with a strong backend focus
+• Deep Python expertise — not scripting, but well-structured production code. You understand when to use dataclasses vs Pydantic, how async/await actually works, and why global variables make testing painful
+• Testing as a core discipline. You've built test suites for services with external dependencies. You're comfortable with pytest, mocking, fixtures, and know how to test code that calls third-party APIs without calling them
+• FastAPI or equivalent modern Python web framework experience (Django REST Framework, Flask with production patterns). You've designed and maintained REST APIs that other teams depend on
+• Azure or equivalent cloud platform experience. You've worked with managed container services, Kubernetes, managed databases, identity/auth systems, and CI/CD in a cloud environment. Azure preferred; AWS/GCP experience transfers well
+• CI/CD pipeline engineering. You've added test gates, lint checks, and automated quality enforcement to build pipelines. Experience with Azure DevOps Pipelines, GitHub Actions, or GitLab CI
+• Docker and containerization. You've written production Dockerfiles, understand multi-stage builds, and have debugged container networking and configuration issues
+• Strong code review and collaboration skills. You'll be working with AI scientists who are strong in their domain but still developing engineering practices. You need to raise the bar without creating friction
+
+Preferred Qualifications
+• Experience working with LLM provider APIs (Anthropic, OpenAI, Azure OpenAI) — understanding token limits, prompt design, structured output parsing, and retry patterns
+• Experience with structured logging (structlog), observability tools (OpenTelemetry, Prometheus, Grafana), or APM platforms
+• Exposure to cybersecurity, vulnerability management, or compliance-sensitive environments
+• Experience on a small engineering team at a startup, where you owned services end-to-end
+• Familiarity with RAG patterns, embedding pipelines, or vector databases (not required, but a plus for growth)
+
+Why This Role
+• High-impact ownership. You'll build the engineering foundation for an AI platform that protects enterprises from security vulnerabilities.
+• Growth into AI/ML engineering. As our AI capabilities mature into fine-tuning, custom model serving, and evaluation frameworks, you'll grow into MLOps and AI infrastructure. We'll invest in your development.
+• Shape the team. You'll have input into hiring decisions as we grow the engineering side of the AI team. The engineers we hire next will be your peers and reports.
+• Work with cutting-edge AI. You'll work daily with Claude, and other frontier models — not training them but engineering the systems that make them useful in production.
