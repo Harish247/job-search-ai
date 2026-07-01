@@ -3,3 +3,7 @@ click
 rich
 python-dotenv
 pyyaml
+chromadb==0.5.3
+posthog<3
+pypdf
+tiktoken

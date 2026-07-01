@@ -8,7 +8,9 @@ from rich.table import Table
 from rich import box
 
 from extractor import extract_jd
+from ingestor import chunk_text, ingest_path, load_text, SUPPORTED_SUFFIXES
 from reports import generate_report
+from responder import answer as generate_answer
 from storage import init_db, save_job, list_jobs, fetch_job, hash_exists
 
 console = Console()
@@ -44,8 +46,16 @@ def add(path):
             skipped += 1
             continue
 
+        # DEBUG: raw text exactly as read from disk, before it goes to OpenAI
+        raw_text = file.read_text(encoding="utf-8")
+        console.print(f"[dim]Reading {file.name} ({len(raw_text)} chars)[/dim]")
+        breakpoint()  # inspect: raw_text, file, file_hash
+
         with console.status(f"Analyzing {file.name}..."):
             data = extract_jd(str(file))
+
+        # DEBUG: structured JSON the model extracted from raw_text
+        breakpoint()  # inspect: data (dict with company/role/skills/score_breakdown/etc.)
 
         if "error" in data:
             console.print(f"[red]Failed[/red] {file.name}: {data['error']}")
@@ -157,6 +167,57 @@ def show(job_id):
 def report():
     """Generate an aggregate report across all saved jobs."""
     generate_report()
+
+
+@cli.command()
+@click.argument("path")
+def ingest(path):
+    """Ingest a file or folder (.txt/.pdf) into the vector store."""
+    p = Path(path)
+    files = sorted(f for f in p.rglob("*") if f.suffix.lower() in SUPPORTED_SUFFIXES) if p.is_dir() else [p]
+
+    # DEBUG: preview exactly what's read from each file and how it gets chunked
+    for file in files:
+        raw_text = load_text(file)
+        chunks = chunk_text(raw_text)
+        console.print(f"[dim]{file.name}: {len(raw_text)} chars -> {len(chunks)} chunks[/dim]")
+        breakpoint()  # inspect: raw_text (full extracted text), chunks (list of 500-token pieces)
+
+    with console.status(f"Ingesting {path}..."):
+        summary = ingest_path(path)
+
+    # DEBUG: per-file ingest/skip/fail outcome
+    breakpoint()  # inspect: summary["results"] (list of {file, status, error})
+
+    for r in summary["results"]:
+        if r["status"] == "ingested":
+            console.print(f"[green]Ingested[/green] {r['file']}")
+        elif r["status"] == "skipped":
+            console.print(f"[yellow]Skipped[/yellow] {r['file']} (already ingested)")
+        else:
+            console.print(f"[red]Failed[/red] {r['file']}: {r['error']}")
+
+    console.print(
+        f"\n[bold]Summary:[/bold] {summary['ingested']} ingested, "
+        f"{summary['skipped']} skipped, {summary['failed']} failed"
+    )
+
+
+@cli.command()
+@click.argument("question")
+def ask(question):
+    """Retrieve relevant chunks and generate a grounded answer to a question."""
+    with console.status("Thinking..."):
+        result = generate_answer(question)
+
+    # DEBUG: chunks retrieved from ChromaDB (text/source/score) and the final answer/sources
+    breakpoint()  # inspect: result["chunks"], result["sources"], result["answer"]
+
+    console.print(Panel(result["answer"], title="[bold]Answer[/bold]", border_style="cyan"))
+
+    if result["sources"]:
+        sources_text = "\n".join(f"• {s}" for s in result["sources"])
+        console.print(Panel(sources_text, title="[bold]Sources[/bold]", border_style="dim"))
 
 
 if __name__ == "__main__":
